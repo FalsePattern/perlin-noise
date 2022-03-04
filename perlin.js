@@ -300,5 +300,3 @@ function perlin4D(x, y, z, t) {
     )
   );
 }
-
-export { perlin1D, perlin2D, perlin3D, perlin4D };
